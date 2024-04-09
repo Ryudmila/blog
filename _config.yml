@@ -162,7 +162,7 @@ collections:
 
 defaults:
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: "https://ryudmila.github.io/blog/" # An empty string here means all files in the project
       type: posts
     values:
       layout: post
