@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gemspec
+gemspec name: 'blog_gspec'
 
 group :test do
   gem "html-proofer", "~> 4.4"
